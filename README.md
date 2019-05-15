@@ -6,4 +6,4 @@ I specifically created the carousel of our project documentation, as well as the
 
 Note: This app's code is confidential, so I cannot share the source code.
 
-The website can also be viewed at everalf1995.github.io/picu until it is removed by the owner.
+The website can also be viewed at michaelamwilson.github.io/picu
